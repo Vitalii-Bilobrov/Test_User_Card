@@ -1,0 +1,59 @@
+.StatisticsBlock {
+  position: absolute;
+  top: 64%;
+  right: 25%;
+}
+.Button {
+  margin-top: 32px;
+  width: 226px;
+  height: 58px;
+  background: #ebd8ff;
+
+  border-radius: 12px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+.Button_green {
+  margin-top: 32px;
+  width: 226px;
+  height: 58px;
+  background: #5cd3a8;
+
+  border-radius: 12px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+.FollowersBlock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-transform: uppercase;
+
+  color: #ebd8ff;
+}
+.TweetsBlock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  text-transform: uppercase;
+
+  color: #ebd8ff;
+}
